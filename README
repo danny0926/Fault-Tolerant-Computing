@@ -1,0 +1,22 @@
+## Server.py
+```bash
+python server.py [--host IP_address(IPv4)] [--port port_number] [--restart the operation is restart or not]
+```
+
+## Client.py
+
+```
+python  client.py [--host IP_address(IPv4)] [--port port_number] [--identity voter or vote_creator] [--user_name user_name] [--my_group which group you are] [--election_name the election you want to join] [--groups who can join the vote] [--choices candidates you can vote] [--during_time during_time(hours)] [--choice_name the candidate you want to choose]
+```
+
+for example:
+
+voter
+```
+python client.py --identity=voter --my_group=graduate_student --choice_name=Apple --user_name=Danny
+```
+
+vote_creator
+```
+python client.py --identity=vote_creator --my_group=graduate_student --choice_name=NIL
+```

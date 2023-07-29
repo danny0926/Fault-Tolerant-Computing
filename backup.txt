@@ -1,0 +1,52 @@
+4
+unknown
+graduate_student
+M3R1RFFjSFRUZlY4Tmp4NnVZUUxCUWFTRW5TUTFaYzVrODNBNW5JUWF2MD0=
+GiEGshW9+zur30M9iMpBsAGsRZUS9ccshiNrvx/3wqSvtKrdAflaUvexNSm4HeEAy5nwgwOyaLnU+9vAhU5jxw==
+ZSfEBFlv5rncS3RrOBVWaqXs/BlliaGdwLizmqdINzBBwSC9H7h4CysJ5fapheqoFZXJPaI63CS1kYINBOPcSw==
+seconds: 168319971
+nanos: 371784000
+
+False
+False
+A
+graduate_student
+VDZUcENXYmdCVjhESGRGTTBpd1hvVTFzUys2VW8wVVBqSW5odmpCTUNoTT0=
+vXX0Xw6jqTl548NXlhGKn00FLT0UKqwtwSkYkDXCyFI1BN68x/L2L+wTy9xEfsZJ5dNvJ5FE8mOVA9FX9ywOMg==
+oWXMV1t2vtSW0mf4PMFf8hv0ZNJmdqLF+gN/ATIrPNjI1AgI1QR8SuJ5UP/YuTeRrRPLJkDiWNds7SSU61s31w==
+seconds: 168319971
+nanos: 572219000
+
+False
+False
+B
+graduate_student
+eVM5Zko5d0llOVRYR0pjMlQ2cVVUSVRyMUtzUDhLTEhLTHVOYkNydGxtMD0=
+z4cfI4SxGaBVRs9YWO5ah4z7udbDAHJTPRPmWj6SWemUlwlKubbVlQ4QRwsLDNciKxAQHGOvWJLQoHbKx4knYg==
+5Cbk+1JTdKmdUnOzt3AkLsUptenUBVTbFbjRak4RS4SbkplpEG6C2Taey3woM4iJaeiFiCPbwEooHFPjio2hXg==
+seconds: 168319974
+nanos: 976923000
+
+False
+False
+C
+graduate_student
+ICTKBKk9kIJDfxqt4cxTZTFwmfBoz3MwErjprlAfcPo=
+HihCM5I0iyy8D7IOl1ZT9FKGd08x2QPRadNHT78EFaIRaQEKl2mF4E3zC4OyIDbjJo2lqnvJjSoeLMv1l8M7xA==
+fx2Dq/AMoKSD5ZjxQWQ/ZRXFpn2zCoNDRm7aEqRYqX1HOABkhuzPLRw1ENlpDMH6O5NLghyYFoEUEi3zAhmmKA==
+seconds: 1683199770
+nanos: 38033000
+
+False
+True
+seconds: 168319623
+nanos: 366460000
+
+Student president election
+2
+Apple,3
+Orange,0
+2
+undergraduate_student
+graduate_student
+False
